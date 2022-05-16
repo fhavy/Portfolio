@@ -17,6 +17,7 @@ import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
+import mylog from '../assets/mylog.svg';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -42,6 +43,7 @@ export default {
   cpp,
   css,
   figma,
+  mylog,
   flutter,
   git,
   graphql,
